@@ -1,0 +1,13 @@
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\bin\Debug\Tipos de Conversoes.exe.config
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\bin\Debug\Tipos de Conversoes.exe
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\bin\Debug\Tipos de Conversoes.pdb
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\obj\Debug\_02TiposDeConversoes.csproj.AssemblyReference.cache
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\obj\Debug\_02TiposDeConversoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\obj\Debug\_02TiposDeConversoes.csproj.CoreCompileInputs.cache
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\obj\Debug\Tipos de Conversoes.exe
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\Tipos de Conversoes\obj\Debug\Tipos de Conversoes.pdb
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\_0.2.0Tipos de Conversoes\obj\Debug\_02TiposDeConversoes.csproj.AssemblyReference.cache
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\_0.2.0Tipos de Conversoes\obj\Debug\_02TiposDeConversoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\_0.2.0Tipos de Conversoes\obj\Debug\_02TiposDeConversoes.csproj.CoreCompileInputs.cache
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\_0.2.0Tipos de Conversoes\obj\Debug\Tipos de Conversoes.exe
+C:\Users\Rui Lagos\Documents\Curso de c#\TiposDeVariaveis\_0.2.0Tipos de Conversoes\obj\Debug\Tipos de Conversoes.pdb
